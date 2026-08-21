@@ -1,0 +1,15 @@
+.env
+.env
+*.env
+.ipynb_checkpoints/
+accesstoken.txt
+.env
+*.env
+
+.ipynb_checkpoints/
+
+accesstoken.txt
+
+my_chroma_db/
+
+__pycache__/
